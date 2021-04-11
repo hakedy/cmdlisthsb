@@ -1,0 +1,95 @@
+ hidecmds - Hides executed commands from any operators
+ unhidecmds - Unhides executed commands from any operators
+ bedrockunder - Fills bedrock under you
+ bringall - Brings all players to you
+ bringentities - Brings all entities to you
+ clearnearentities - Kills all entities near you
+ clearspace - Fills space around you with air
+ cmdblock - Gives you a command block
+ createangvilpar - Creates the angry villager paricle
+ createcamexplpar - Creates an explosiion particle
+ createflamepart - Creates a torch particle
+ createpastepar - Creates a paste-like particle
+ dayallfalse - Disables always day
+ dayalltrue - Enables always day
+ defaultsettings - Sets normal-like gamerules
+ diamondset - Gives you a diamond set
+ effectclr - Clears your effects
+ effectclrall - Clears everybodys effects
+ gbarrier - Gives you a barrier
+ gstrucblock - Gives you a structure block
+ imwrldfalse - Sets immutableworld 
+ inveffect - Makes you invincible (Not to /kill)
+ inveffectall - Makes everyone invincible (Not to /kill)
+ killall - Kills all players
+ killentities - Kills all entities
+ muteambmusic - Mutes the ambient music
+ newentity - Creates an armor stand at your position
+ playintro - Plays intro to hakedys script builder
+ rmvservermute - Removes server mute
+ stopcamshakeclient - Stop your camshake
+ stopcamshakeserver - Stop everybodys camshake
+ switchambmusic - Switches the ambient music
+ testsubjecttagadd - Adds a tag to you called testsubject
+ testsubjecttagrmv - Removes the tag to you called testsubject
+ unmuteambmusic - Unmutes the ambient music
+ clrspawnall - Removes all players spawnpoints
+ createcow - Spawns a cow at your position
+ createnpc - Spawns an NPC at your position
+ dayallfalse - Allows day to continue
+ dayalltrue - Locks day cycle
+ dif(peace/easy/norm/hard) - Sets difficulty
+ imwlrdtrue - Sets immutableworld state to true
+ mayflyfalseall - Revokes everybodys mayfly ability
+ mayflyfalseclient - Revokes your mayfly ability
+ mayflytrueclient - Adds mayfly ability to you
+ mayflytrueserver - Adds mayfly ability to every player
+ ownplrspawnall - Executes for every player to set their spawn (local pos)
+ spawnpointall - Sets everybodys spawn at your position
+ steveheadall - Sets everybody to equip a steve head
+ togglewb - Toggles worldbuilder status
+ ts(day/midnight/night/noon/sunrise/sunset) - Sets time
+ voidall - Creates a hole under everybody
+ voidself - Creates a hole under you
+ wh(/clr/rain/thr) - Sets weather
+ createbat - Summons a bat
+ createblaze - Summons a blaze
+ createchicken - Summons a chicken
+ createcreeper - Summons a creeper
+ createghast - Summons a ghast
+ createpig - Summons a pig
+ createskeleton - Summons a skeleton
+ createzombie - Summons a zombie
+ foghell - Sets fog to the nether
+ fogtheend - Sets the fog to the end
+ getallitems - Tps all items to you
+ gm(a/s/c)client - Sets your gamemode
+ gm(a/s/c)server - Sets everybodys gamemode
+ rmvfoghell - Removes nether fog
+ rmvfogtheend - Removes end fog
+ vanish - Makes you invisible
+ unvanish - Revokes invisibility (and all eff)
+ sendloveletters - Sends everybody a love letter
+ chaos - (Bannable) Executes all commands multiple times (uses entities)
+ earrape1 - Plays multiple music tracks at once
+ earrape2 - Plays multiple dragon deaths sounds pitched dif.
+ entityhide - Hides all entities
+ entityreplicate - (Use testsubject tag) Replicates an armor on u(experimental)
+ entityshow - Shows all entities (clear eff)
+ explodeall - Summons an ender crystal + arrow on everybody
+ killsnd - Stops all sound
+ lagserver - (Bannable) Lags the server using randomtickspeed
+ resettickspeed - Sets the randomtickspeed to 1
+ tntexplosiontroll - Sets a tnt floor and sets fire to the player
+ blindnessall - Gives everybody blindness
+ instanthitkill - Makes you instantly kill people
+ jetpacktroll - Send players flying into the air
+ ride(boat/donkey/horse/llama/minecart/pig/strider)- Attempts to ride an entity(most use saddles)
+ becomebirdall - Gives everybody an elytra + skydive
+ blockclone - Clones the block that is under you
+ blockclonedes - Clones the block under you and destroys it
+ createpp - Creates a pp out of stone
+ kickall(a/c/s) - Kicks all player which are in gamemode group
+ status(a/c/s) - Tells you if a player in gamemode is present
+ viewrandom(a/c/s) - Views a random person in that gamemode
+ unview - Go back to your original spot (Requires death)
