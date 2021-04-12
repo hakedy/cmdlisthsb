@@ -103,3 +103,6 @@
  viewrandom(a/c/s) - Views a random person in that gamemode
  unview - Go back to your original spot (Requires death)
  createheil - Creates a swastica
+ banjodestruction - (Bannable) Plays banjo sounds and causes mass destruction near player
+ createcreeperchaos - Summons 20 highly-explosive creepers per player 
+ slownessall - Disables everybodys movement using slowness
