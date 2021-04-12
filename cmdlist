@@ -106,3 +106,7 @@
  banjodestruction - (Bannable) Plays banjo sounds and causes mass destruction near player
  createcreeperchaos - Summons 20 highly-explosive creepers per player 
  slownessall - Disables everybodys movement using slowness
+ clrspawnpointclient - Clears your spawnpoint
+ gotostorage - Goes to your item storage
+ itemtpstorage - Tp's all items to storage container
+ setstorageblocks - (use before storage cmds) Makes the blocks required for storage
